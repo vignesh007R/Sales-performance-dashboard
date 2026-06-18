@@ -1,12 +1,14 @@
 **Retail Sales Analytics Dashboard**
 
-** Project Overview**
+**Project Overview**
+
 This project focuses on analyzing retail sales data using Microsoft Excel.
 The objective is to transform raw sales data into meaningful insights that help businesses understand customer behavior,
 product performance, regional sales trends, and overall business growth.
 
 
-** Objectives**
+**Objectives**
+
 Analyze sales performance across different regions.
 Identify top-performing products and categories.
 Track revenue, profit, and order trends.
@@ -15,6 +17,7 @@ Generate business insights from historical sales data.
 
 
  **Tools & Technologies**
+ 
 Microsoft Excel
 Pivot Tables
 Pivot Charts
