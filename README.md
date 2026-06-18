@@ -5,12 +5,14 @@ This project focuses on analyzing retail sales data using Microsoft Excel.
 The objective is to transform raw sales data into meaningful insights that help businesses understand customer behavior,
 product performance, regional sales trends, and overall business growth.
 
+
 ** Objectives**
 Analyze sales performance across different regions.
 Identify top-performing products and categories.
 Track revenue, profit, and order trends.
 Create interactive dashboards for decision-making.
 Generate business insights from historical sales data.
+
 
  **Tools & Technologies**
 Microsoft Excel
@@ -28,6 +30,7 @@ Product Category Performance Tracking
 Monthly and Yearly Sales Trends
 KPI Metrics Visualization
 Profit and Revenue Analysis
+
  **Dataset Information**
 
 The dataset contains:
@@ -48,12 +51,14 @@ Pivot Table Creation
 Dashboard Development
 Data Visualization
 Business Insight Generation
+
  **Dashboard Insights**
 Identified the highest revenue-generating products.
 Analyzed sales performance by region.
 Compared monthly sales growth trends.
 Evaluated profit margins across categories.
 Highlighted areas requiring business improvement.
+
  **Business Impact**
 
 The dashboard helps stakeholders:
@@ -62,6 +67,7 @@ Monitor sales performance efficiently.
 Make data-driven business decisions.
 Identify profitable products and regions.
 Improve inventory and sales strategies.
+
  **Skills Demonstrated**
 Data Analysis
 Business Intelligence
